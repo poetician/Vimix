@@ -1,0 +1,2 @@
+# Vimix
+Grub theme
